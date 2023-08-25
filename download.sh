@@ -3,7 +3,7 @@
 # Copyright (c) Meta Platforms, Inc. and affiliates.
 # This software may be used and distributed according to the terms of the Llama 2 Community License Agreement.
 
-PRESIGNED_URL="YOUR_PREDESIGNED_URL_HERE" # Hard-coded pre-designed URL
+PRESIGNED_URL="https://download2.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiaHFlbHBvZXZqMnhrbXFzbzFwN2ZoZXdoIiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZG93bmxvYWQyLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTMwMjMxNDB9fX1dfQ__&Signature=EPPcEYi9XdLfLLvi-BNRfztIfQcTbNVRU0pbSjKj-EOC5ksWKWZx3YBpVmK3p-QIAeO6xRBYs547EwUhha-BH6UF3hgL-fjW56H-7SQ5amWjVVDGT%7EII7PsiPfvTnQUAlQ3ogCQHr-0wgRsl0T12OtCXaKlGOMj%7EMuV%7ES8PrsxiOTvxVwBlclfRRZiYOLUq5DJKCoCUkgPBPtvLNskRliuicRqbXPQhqIxSSUPyUbvISWU4sNEXbbCmfAEQqd%7EsIvUfPofw2vW1AfqfOk7y97K-WjXu92xPdWzQ3%7EKnNcup7obumfAK3AOcpuU8n0Hp0rTYB5dyXd0Kgup%7E9mG9TJQ__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=228008026496579" # Hard-coded pre-designed URL
 MODEL_SIZE="7b"                           # Hard-coded model size
 TARGET_FOLDER="."                         # where all files should end up
 mkdir -p ${TARGET_FOLDER}
